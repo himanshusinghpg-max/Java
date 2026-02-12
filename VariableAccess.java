@@ -6,3 +6,4 @@ class VariableAccess {
         System.out.println("Value of number = " + obj.number);
     }
 }
+ 
