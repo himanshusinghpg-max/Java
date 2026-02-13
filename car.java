@@ -1,4 +1,3 @@
-// File name: car.java
 public class car {
     int modelyear;
     int mileage;
